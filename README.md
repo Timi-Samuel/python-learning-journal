@@ -1,20 +1,18 @@
-# python-learning-journal
-A collection of Python scripts and notes from my learning journey
+# Python Learning Journal
 
-## OOP Principles in Enterprise Applications
-This repository contains my exercises and notes on Object-Oriented Programming (OOP) principles, with a focus on their use in enterprise applications.
+This repository contains my notes, exercises, and explanations on software design and development concepts.  
+Each document explores different programming principles and patterns with examples.
 
-### 📖 Contents
-  * Polymorphism
-  * Encapsulation
-  * Composition
-  * Inheritance
-  * Abstract Class
-  * Metaclasses
+## Contents
+- `oop_principles_in_enterprise_applications.ipynb` – Notes and examples on Object-Oriented Programming principles  
+- `design_patterns.ipynb` – Overview of software design patterns
 
-### 🚀 Purpose
-I’m documenting what I’ve learned about OOP principles by working through exercises and explanations. This helps me reinforce concepts and build a reference for future projects.
+## Purpose
+This repo serves as my learning journal while studying software engineering.  
+It includes practical write-ups, explanations, and sample code for future reference.  
 
-### 🛠 How to Use
-- Browse the Markdown files for explanations and examples.
-- Clone the repo if you’d like to experiment with the exercises.
+## How to Use
+- Browse the documents for explanations.  
+- Open the Jupyter notebooks (`.ipynb`) to view interactive examples.  
+
+---
